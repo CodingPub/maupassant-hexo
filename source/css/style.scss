@@ -235,7 +235,7 @@ a:focus {
     .post-content {
         clear: left;
         font-size: 15px;
-        line-height: 1.77;
+        line-height: 24px;
         color: #444;
         padding-top: 15px;
         text-align: justify;
@@ -838,8 +838,8 @@ figure.highlight,
     }
     // All lines in gutter and code container
     .line {
-        height:    1.2em;
-        font-size: 13px;
+        height:    22px;
+        font-size: 14px;
     }
 }
 
