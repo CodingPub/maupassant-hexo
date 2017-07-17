@@ -41,6 +41,10 @@ a:focus {
     clear: both;
 }
 
+h1 {
+    line-height: 1.4em;
+}
+
 #header {
     padding: 58px 0 0;
     text-align: left;
@@ -53,7 +57,6 @@ a:focus {
             margin: 0;
             height: 0;
             overflow: hidden;
-            height: 1.4em;
         }
         #logo {
             font: bold 38px/1.12 "Times New Roman", Georgia, Times, sans-serif;
@@ -63,6 +66,7 @@ a:focus {
             }
         }
         .description {
+            
             margin: .2em 0 0;
             color: #999;
         }
